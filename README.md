@@ -61,7 +61,7 @@ MySQL • Hive • Firebase • GitHub • VS Code • Jupyter Notebook • Kagg
 ## 🤝 Connect With Me
 
 📧 pragya247work@gmail.com  
-🔗 LinkedIn: linkedin.com/in/pragya-kumar2003  
+🔗 linkedin.com/in/pragya-kumar2003  
 
 ---
 
